@@ -26,7 +26,7 @@ with col2:
     In het dagelijks (werkzame) leven ben ik werkzaam als Opentext AppWorks ontwikkelaar bij vele verschillende bedrijven"""
     st.info(content)
 
-st.write("Hieronder wat apps waar ik mee bezig ben (alles in python) moet wat langer zijn om het goed te bekijken")
+st.write("Hieronder wat apps waar ik mee bezig ben (alles in python). Voorlopig is het meeste nog niet klaar dus 'under constrcution' is hier wel de juiste term")
 
 col3, col4, col5 = st.columns([1.5, 0.5, 1.5])  # een list met de relatieve kolombreedte
                                                 # de middelste is leeg om de buitenste 2 te scheiden
